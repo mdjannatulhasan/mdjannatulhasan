@@ -1,5 +1,5 @@
-<div style="display:flex; align-items:center; font-size:20px; gap:5px;">
-<img width="30" src="images/coding.png">  Technology Skills
+<div style="display:flex; align-items:center; gap:5px;">
+<img width="30" src="images/coding.png">  <span style="font-size:20px;">Technology Skills</span>
 </div>
 
 ## 📈 Leetcode Stats
