@@ -3,7 +3,7 @@
 
 ## 📈 Leetcode Stats
 <p align="center">
-  <img width="60%" src="https://leetcard.jacoblin.cool/mdjannatulhasan?ext=contest" />
+  <img width="60%" src="https://leetcode-stats.vercel.app/api?username=mdjannatulhasan&theme=Dark" />
 </p>
 
 <br/>
