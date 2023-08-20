@@ -13,4 +13,4 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mdjannatulhasan&theme=react&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-![Profile views](https://gpvc.arturio.dev/mdjannatulhasan)
+![](https://komarev.com/ghpvc/?username=mdjannatulhasan&color=blue)
