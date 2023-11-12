@@ -19,5 +19,10 @@
 
 ## 📈 Github Stats
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mdjannatulhasan&theme=react&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjannatulhasan&theme=solarized" />
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
