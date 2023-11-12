@@ -3,7 +3,7 @@
     <h1 align="center">✩&emsp;mdjannatulhasan&emsp;✩</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi There!;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%233B56EC&center=true&width=280&height=50">
+    <img id="preview" src="https://readme-typing-svg.herokuapp.com/?lines=Hi There!;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%233B56EC&center=true&width=280&height=50">
 </p>
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=mdjannatulhasan&color=blue">
