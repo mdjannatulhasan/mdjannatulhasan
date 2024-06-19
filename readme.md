@@ -15,7 +15,7 @@
   <img width="60%" src="https://leetcode-stats.vercel.app/api?username=mdjannatulhasan&theme=Dark" />
 </p>
 
-## Daily.dev Stats
+## 📑 Daily.dev Stats
 <p align="center"><a href="https://app.daily.dev/mdjannatulhasan"><img src="./devcard.png" width="356" alt="Hasan's Dev Card"/></a></p>
 
 
