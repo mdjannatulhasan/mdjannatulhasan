@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=395CEB&center=true&vCenter=true&random=false&width=435&lines=>+Welcome+to+my+profile!;Have+a+look+around!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=395CEB&center=true&vCenter=true&random=false&width=435&lines=>+Welcome+to+my+profile!;Have+a+look+around!" alt="Hasan's intro SVG" />
 </p>
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=mdjannatulhasan&color=blue">
