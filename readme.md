@@ -54,6 +54,8 @@ Hi, I'm Hasan — a passionate Fullstack Developer from Bangladesh 🇧🇩 with
 -   Managed complex SQL queries, optimized with **indexes and caching**.
 -   Built and deployed projects on **VPS/DigitalOcean**, handled basic **Linux server maintenance**, and used **GitHub Actions** for CI/CD.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M41IWS71)
+
 ## 📈 Leetcode Stats
 
 <p align="center">
