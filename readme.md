@@ -21,9 +21,8 @@
 
 Full-stack software engineer from Bangladesh 🇧🇩 with **5+ years** of shipping web and mobile products. Laravel and React/Next.js are home; WordPress, React Native and Rails are close by.
 
-- 💼 **Now:** Assistant Software Engineer @ **BluBird Interactive**
-- 🛠️ **Building:** **Sikkha OS**, a multi-tenant school & college SaaS (Laravel 13, Postgres schema-per-tenant, Next.js 16, Expo)
-- 🧑‍🤝‍🧑 Led a team of 5 and built ~80% of the APIs at Dhaka JACOS
+- 💼 **Now:** Software Engineer @ **BluBird Interactive**
+- 🧑‍🤝‍🧑 Led a team of 5 and built ~80% of the APIs
 - 🌍 Worked remotely for Netmark, Norway
 - 🎓 BSc CSE, BRAC University · IEEE ICAICT 2020 author
 - ♟️ Former General Secretary, BRAC University Chess Club
