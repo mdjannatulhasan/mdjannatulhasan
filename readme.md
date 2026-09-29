@@ -80,8 +80,6 @@ Full-stack software engineer from Bangladesh 🇧🇩 with **5+ years** of shipp
   <a href="https://app.daily.dev/mdjannatulhasan"><img src="./devcard.png" width="34%" align="top" alt="daily.dev card"></a>
 </p>
 
-### 🐍 Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdjannatulhasan/mdjannatulhasan/output/github-contribution-grid-snake-dark.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/mdjannatulhasan/mdjannatulhasan/output/github-contribution-grid-snake.svg">
