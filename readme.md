@@ -46,12 +46,12 @@ Full-stack software engineer from Bangladesh 🇧🇩 with **5+ years** of shipp
 
 ### 💼 Experience
 
-| When        | Where                                                 | Highlights                                                                      |
-| ----------- | ----------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 2025 – now  | **BluBird Interactive** · Assistant Software Engineer | Rails CRM UX refactor, custom WordPress A/B testing plugin, 15k+ lines reviewed |
-| 2024 – 2025 | **Dhaka JACOS** · Full-stack Software Engineer        | Led 5 engineers, ~80% of Laravel APIs, ~60% of React UI, UI load time −25%      |
-| 2023 – 2024 | **Quantic Dynamics** · Full-stack Developer (MERN)    | ~90% of Next.js UI, ~60% of the React Native app's core                         |
-| 2021 – 2022 | **Netmark, Norway** · Frontend Developer (remote)     | React/Next sites, WordPress themes (ACF, Timber), Laravel e-commerce            |
+| When        | Where                                                 | Highlights                                                                                     |
+| ----------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 2025 – now  | **BluBird Interactive** · Assistant Software Engineer | Rails CRM UX refactor, Custom WordPress A/B testing plugin, Multi-tenant System, and many more |
+| 2024 – 2025 | **Dhaka JACOS** · Full-stack Software Engineer        | Led 5 engineers, ~80% of Laravel APIs, ~60% of React UI, UI load time −25%                     |
+| 2023 – 2024 | **Quantic Dynamics** · Full-stack Developer (MERN)    | ~90% of Next.js UI, ~60% of the React Native app's core                                        |
+| 2021 – 2022 | **Netmark, Norway** · Frontend Developer (remote)     | React/Next sites, WordPress themes (ACF, Timber), Laravel e-commerce                           |
 
 ### 📊 GitHub stats
 
