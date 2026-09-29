@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d42,100:1f3a7a&height=190&section=header&text=Hey!%20I%20am%20Hasan&fontSize=46&fontColor=c9a55c&fontAlignY=36&desc=Full-stack%20Software%20Engineer%20%C2%B7%205%2B%20years&descSize=18&descAlignY=58&descColor=f3e7cc&animation=fadeIn" width="100%" alt="Header">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=C9A55C&center=true&vCenter=true&width=600&lines=Laravel+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Rails;Ex-team+lead+%E2%80%94+led+5+engineers+at+Dhaka+JACOS;Now+%40+BluBird+Interactive;Building+Sikkha+OS%2C+a+multi-tenant+school+SaaS" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=C9A55C&center=true&vCenter=true&width=600&lines=Laravel+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Rails;Software+Engineer+%40+BluBird+Interactive;" alt="Typing intro">
 </p>
 
 <p align="center">
@@ -47,13 +47,13 @@ Full-stack software engineer from Bangladesh 🇧🇩 with **5+ years** of shipp
 
 ### 💼 Experience
 
-| When | Where | Highlights |
-|---|---|---|
-| 2025 – now | **BluBird Interactive** · Assistant Software Engineer | Rails CRM UX refactor, custom WordPress A/B testing plugin, 15k+ lines reviewed |
-| 2024 – 2025 | **Dhaka JACOS** · Full-stack Software Engineer | Led 5 engineers, ~80% of Laravel APIs, ~60% of React UI, UI load time −25% |
-| 2023 – 2024 | **Quantic Dynamics** · Full-stack Developer (MERN) | ~90% of Next.js UI, ~60% of the React Native app's core |
-| 2022 – 2023 | **NerdEvolution** · Software Engineer (part-time) | Requirements, planning, budgeting, delivery |
-| 2021 – 2022 | **Netmark, Norway** · Frontend Developer (remote) | React/Next sites, WordPress themes (ACF, Timber), Laravel e-commerce |
+| When        | Where                                                 | Highlights                                                                      |
+| ----------- | ----------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2025 – now  | **BluBird Interactive** · Assistant Software Engineer | Rails CRM UX refactor, custom WordPress A/B testing plugin, 15k+ lines reviewed |
+| 2024 – 2025 | **Dhaka JACOS** · Full-stack Software Engineer        | Led 5 engineers, ~80% of Laravel APIs, ~60% of React UI, UI load time −25%      |
+| 2023 – 2024 | **Quantic Dynamics** · Full-stack Developer (MERN)    | ~90% of Next.js UI, ~60% of the React Native app's core                         |
+| 2022 – 2023 | **NerdEvolution** · Software Engineer (part-time)     | Requirements, planning, budgeting, delivery                                     |
+| 2021 – 2022 | **Netmark, Norway** · Frontend Developer (remote)     | React/Next sites, WordPress themes (ACF, Timber), Laravel e-commerce            |
 
 ### 📊 GitHub stats
 
