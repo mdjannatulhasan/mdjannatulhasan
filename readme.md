@@ -1,81 +1,92 @@
-![Header](./github-header-image.png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d42,100:1f3a7a&height=190&section=header&text=Hey!%20I%20am%20Hasan&fontSize=46&fontColor=c9a55c&fontAlignY=36&desc=Full-stack%20Software%20Engineer%20%C2%B7%205%2B%20years&descSize=18&descAlignY=58&descColor=f3e7cc&animation=fadeIn" width="100%" alt="Header">
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=395CEB&center=true&vCenter=true&random=false&width=435&lines=>+Welcome+to+my+profile!;Have+a+look+around!" alt="Hasan's intro SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=C9A55C&center=true&vCenter=true&width=600&lines=Laravel+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Rails;Ex-team+lead+%E2%80%94+led+5+engineers+at+Dhaka+JACOS;Now+%40+BluBird+Interactive;Building+Sikkha+OS%2C+a+multi-tenant+school+SaaS" alt="Typing intro">
 </p>
-
-Hi, I'm Hasan — a passionate Fullstack Developer from Bangladesh 🇧🇩 with experience in building dynamic, scalable web applications using **React**, **Next.js**, **WordPress**, **Laravel**, **CodeIgniter**, and **Node.js**. I love solving real-world problems through code and delivering polished, user-friendly solutions.
 
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=mdjannatulhasan&color=blue">
+  <a href="https://www.linkedin.com/in/shah-muhammad-jannatul-hasan-munna-85a73415b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mdjannatulhasan.com"><img src="https://img.shields.io/badge/Portfolio-0B1D42?style=for-the-badge&logo=googlechrome&logoColor=C9A55C" alt="Portfolio"></a>
+  <a href="https://x.com/jannatulhasan1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://app.daily.dev/mdjannatulhasan"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev"></a>
+  <a href="https://ko-fi.com/M4M41IWS71"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
+  <img src="https://komarev.com/ghpvc/?username=mdjannatulhasan&style=for-the-badge&color=0b1d42&label=VIEWS" alt="Profile views">
 </p>
 
-## 🚀 Tech Stack
+<table>
+<tr>
+<td width="55%" valign="top">
 
-### 🖥️ Frontend
+### 👨‍💻 About me
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+Full-stack software engineer from Bangladesh 🇧🇩 with **5+ years** of shipping web and mobile products. Laravel and React/Next.js are home; WordPress, React Native and Rails are close by.
 
-### 🧠 Backend
+- 💼 **Now:** Assistant Software Engineer @ **BluBird Interactive**
+- 🛠️ **Building:** **Sikkha OS**, a multi-tenant school & college SaaS (Laravel 13, Postgres schema-per-tenant, Next.js 16, Expo)
+- 🧑‍🤝‍🧑 Led a team of 5 and built ~80% of the APIs at Dhaka JACOS
+- 🌍 Worked remotely for Netmark, Norway
+- 🎓 BSc CSE, BRAC University · IEEE ICAICT 2020 author
+- ♟️ Former General Secretary, BRAC University Chess Club
 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/CodeIgniter-E84B35?style=for-the-badge&logo=codeigniter&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+</td>
+<td width="45%" valign="top" align="center">
 
-### 🗃️ Database
+<img src="./images/coding.png" width="100%" alt="Coding">
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</td>
+</tr>
+</table>
 
-### 🧩 WordPress Development & CMS
-
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"> <img src="https://img.shields.io/badge/Oxygen%20Builder-8E44AD?style=for-the-badge&logo=oxygen&logoColor=white"> <img src="https://img.shields.io/badge/Divi-662D91?style=for-the-badge&logo=divi&logoColor=white"> <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"> <img src="https://img.shields.io/badge/Custom%20Theme%20Development-000?style=for-the-badge&logo=wordpress&logoColor=white"> <img src="https://img.shields.io/badge/ACF-00C2B2?style=for-the-badge&logo=advanced-custom-fields&logoColor=white"> <img src="https://img.shields.io/badge/WP_REST_API-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> <img src="https://img.shields.io/badge/Yoast_SEO-2B3137?style=for-the-badge&logo=yoast&logoColor=white">
-
-### 🧪 Testing / Tools
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white">
-
-### 🛠️ DevOps / Hosting
-
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">
-
-### 🧰 Others
-
-<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Command%20Line-000000?style=for-the-badge&logo=gnubash&logoColor=white">
-
-## :mortar_board: Frontend Experience
-
--   Developed complex UIs using **React**, **Next.js**, and **Tailwind CSS**, focused on accessibility and performance.
--   Converted designs from **Figma/Adobe XD** to interactive, mobile-first components.
--   Implemented **dynamic forms**, **tooltips**, and **real-time interactions** using React state management and event handling.
--   Integrated APIs and handled **JWT/Firebase auth**, **conditional rendering**, and **lazy-loading**.
-
-## 🛠️ Backend Experience
-
--   Built secure, scalable REST APIs with **Laravel**, **CodeIgniter**, and **Express.js**.
--   Developed **custom WordPress plugins/themes**, integrated **WooCommerce** for eCommerce solutions.
--   Managed complex SQL queries, optimized with **indexes and caching**.
--   Built and deployed projects on **VPS/DigitalOcean**, handled basic **Linux server maintenance**, and used **GitHub Actions** for CI/CD.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M41IWS71)
-
-## 📈 Leetcode Stats
+### 🚀 Tech stack
 
 <p align="center">
-  <img width="60%" src="https://leetcode-stats.vercel.app/api?username=mdjannatulhasan&theme=Dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,redux,tailwind,html,css&theme=dark" alt="Frontend"><br>
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,rails,graphql,postgres,mysql,mongodb&theme=dark" alt="Backend"><br>
+  <img src="https://skillicons.dev/icons?i=wordpress,docker,aws,firebase,githubactions,vercel,linux,git,figma&theme=dark" alt="Tools">
 </p>
 
-## 📑 Daily.dev Stats
+### 💼 Experience
 
-<p align="center"><a href="https://app.daily.dev/mdjannatulhasan"><img src="./devcard.png" width="356" alt="Hasan's Dev Card"/></a></p>
+| When | Where | Highlights |
+|---|---|---|
+| 2025 – now | **BluBird Interactive** · Assistant Software Engineer | Rails CRM UX refactor, custom WordPress A/B testing plugin, 15k+ lines reviewed |
+| 2024 – 2025 | **Dhaka JACOS** · Full-stack Software Engineer | Led 5 engineers, ~80% of Laravel APIs, ~60% of React UI, UI load time −25% |
+| 2023 – 2024 | **Quantic Dynamics** · Full-stack Developer (MERN) | ~90% of Next.js UI, ~60% of the React Native app's core |
+| 2022 – 2023 | **NerdEvolution** · Software Engineer (part-time) | Requirements, planning, budgeting, delivery |
+| 2021 – 2022 | **Netmark, Norway** · Frontend Developer (remote) | React/Next sites, WordPress themes (ACF, Timber), Laravel e-commerce |
 
-## 📈 Github Stats
+### 📊 GitHub stats
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjannatulhasan&theme=solarized" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjannatulhasan&theme=tokyonight" width="100%" alt="Profile summary">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjannatulhasan&theme=tokyonight" height="165" alt="Repos per language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjannatulhasan&theme=tokyonight" height="165" alt="Most commit language">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mdjannatulhasan&theme=tokyonight&hide_border=true" alt="Streak">
 </p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+### 🧊 Contributions in 3D
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar">
+</picture>
+
+### 🧩 LeetCode & daily.dev
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mdjannatulhasan?theme=dark&font=Fira%20Code&ext=heatmap" width="48%" align="top" alt="LeetCode">
+  <a href="https://app.daily.dev/mdjannatulhasan"><img src="./devcard.png" width="34%" align="top" alt="daily.dev card"></a>
+</p>
+
+### 🐍 Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdjannatulhasan/mdjannatulhasan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdjannatulhasan/mdjannatulhasan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdjannatulhasan/mdjannatulhasan/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mdjannatulhasan/mdjannatulhasan/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f3a7a,100:0b1d42&height=110&section=footer" width="100%" alt="Footer">
